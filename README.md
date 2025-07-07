@@ -1,5 +1,6 @@
 # SuperFilter
 
+一个针对BBC中文网的敏感信息过滤器
 A sensitive information filter for BBC-News-CN📌📌📌
 
 ## How to Run？
